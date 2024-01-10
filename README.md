@@ -1,2 +1,2 @@
 # Biblioteca_Flask
-Exemplo de bibilioteca em Python utilizando Flask
+Exemplo de CRUD em bibilioteca Python utilizando Flask
